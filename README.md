@@ -402,6 +402,44 @@ HR and Managers can access HR-related functionality such as:
 
 ---
 
+# 📸 Application Screenshots
+
+## 🔐 Login
+
+![Login](screenshots/login.png)
+
+## 👨‍💼 Employee Dashboard
+
+![Employee Dashboard](screenshots/employee-dashboard.png)
+
+## 📝 Apply Leave
+
+![Apply Leave](screenshots/apply-leave.png)
+
+## 📋 Leave History
+
+![Leave History](screenshots/leave-history.png)
+
+## 🧑‍💻 HR Dashboard
+
+![HR Dashboard](screenshots/hr-dashboard.png)
+
+## 👥 Employee Management
+
+![Employee Management](screenshots/employee-management.png)
+
+## 🔎 Employee Lookup
+
+![Employee Lookup](screenshots/employee-lookup.png)
+
+## ✅ Leave Approval
+
+![Leave Approval](screenshots/leave-approval.png)
+
+## 💰 Payroll
+
+![Payroll](screenshots/payroll.png)
+
 # 🔄 Application Flow
 
 ```text
